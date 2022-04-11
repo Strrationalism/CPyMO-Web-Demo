@@ -1,0 +1,3 @@
+[submodule "CPyMO"]
+	path = CPyMO
+	url = git@github.com:Strrationalism/CPyMO.git
